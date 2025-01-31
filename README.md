@@ -1,5 +1,5 @@
 # Object-Tracking-and-Parabolic-Motion-Analysis
-Note: This project was a requirement for the course ENPM 673- Perception for Autonomous Robots at University of Maryland, College Park
+**Note:** This project was a requirement for the course ENPM 673- Perception for Autonomous Robots at University of Maryland, College Park
 
 ## Project Description
 The project involves tracking a moving object in a video by detecting its centroid across frames and fitting a parabolic trajectory using the Standard Least Squares method.
